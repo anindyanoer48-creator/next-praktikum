@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 const daftarProduk = [
-  { id: 110, name: "Laptop" },
+  { id: 111, name: "Laptop" },
   { id: 112, name: "Keyboard" },
   { id: 113, name: "Monitor" },
 ];
